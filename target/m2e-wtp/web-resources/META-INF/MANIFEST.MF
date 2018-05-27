@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: MI-HISTORIA-MEDICA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Julia
+Implementation-Vendor-Id: com.ucbcba.registro.app
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/MI-HISTORIA-
+ MEDICA/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
